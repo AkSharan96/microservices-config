@@ -1,9 +1,10 @@
+build:
+    version: 1
 cards:
     activeBranches:
     - Mumbai
     - London
     - Washington
-    build-version: 3
     mailDetails:
         from: default-cards@eazybytes.com
         hostName: default-cards@eazybytes.com
