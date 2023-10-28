@@ -1,9 +1,10 @@
+build:
+    version: 3
 cards:
     activeBranches:
     - Chennai
     - Berlin
     - Indianapollis
-    build-version: 2
     mailDetails:
         from: dev-cards@eazybytes.com
         hostName: dev-cards@eazybytes.com
