@@ -10,4 +10,4 @@ cards:
         hostName: prod-cards@eazybytes.com
         port: 9012
         subject: Your Card Details from Eazy Bank Production Environment
-    msg: Welcome to the EazyBank Cards Prod application
+    msg: "{cipher}454036988287a3ba21df33df53a07a14ecef2e83280ef112e4285f93f5a66774595acfe166fe907799802f39b22c59e6fc9dddce1a42c49a4f780adb89a9023f"
