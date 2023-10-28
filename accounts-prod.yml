@@ -10,4 +10,4 @@ accounts:
         hostName: prod-accounts@eazybytes.com
         port: 9010
         subject: Your Account Details from Eazy Bank Production Environment
-    msg: Welcome to the EazyBank Accounts Prod application
+    msg: Welcome to the EazyBank Accounts Production application
