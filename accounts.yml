@@ -1,9 +1,10 @@
+build:
+    version: 3
 accounts:
     activeBranches:
     - Mumbai
     - London
     - Washington
-    buildVersion: 3
     mailDetails:
         from: default-accounts@eazybytes.com
         hostName: default-accounts@eazybytes.com
