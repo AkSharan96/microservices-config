@@ -3,7 +3,7 @@ accounts:
     - Hyderabad
     - Paris
     - NewYork
-    build-version: 1
+    buildVersion: 1
     mailDetails:
         from: prod-accounts@eazybytes.com
         hostName: prod-accounts@eazybytes.com
