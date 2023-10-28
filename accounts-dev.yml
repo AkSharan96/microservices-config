@@ -5,7 +5,6 @@ accounts:
     - Chennai
     - Berlin
     - Indianapollis
-    buildVersion: 2
     mailDetails:
         from: dev-accounts@eazybytes.com
         hostName: dev-accounts@eazybytes.com
